@@ -1,2 +1,1 @@
-git config --global user.email "srj.nair2000@gmail.com"
-git config --global user.name "Shalu-SDE"
+Modify first file 
